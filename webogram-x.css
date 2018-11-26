@@ -229,6 +229,7 @@ html {
 }
 
 .composer_emoji_tooltip {
+    background-color: #131a22;
     border: none;
 }
 
@@ -238,6 +239,15 @@ html {
 
 [class="composer_emoji_tooltip_category"] i {
     filter: invert(100%);
+}
+
+a.composer_emoji_btn:hover {
+    background-color: #0e141a;
+}
+
+.composer_dropdown li a:hover, 
+.composer_dropdown li.composer_autocomplete_option_active a {
+    background-color: #0e141a;
 }
 
 .footer_wrap {
