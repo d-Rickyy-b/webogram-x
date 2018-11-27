@@ -129,6 +129,11 @@ html {
     color: #ffffff;
 }
 
+/* Chat list chat item */
+.im_dialogs_scrollable_wrap a.im_dialog {
+    border-color: #151e27;
+}
+
 /* Mobile version header color */
 .tg_page_head .navbar-inverse {
     background-color: #222e3c;    
