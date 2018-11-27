@@ -121,6 +121,14 @@ html {
 }
 
 
+/* Mobile version text field */
+.composer_rich_textarea, .composer_rich_textarea:empty,
+.composer_rich_textarea:active, .composer_rich_textarea:focus {
+    background-color: #1d2733;
+    border-color: #151e27;
+    color: #ffffff;
+}
+
 /* User profile color */
 .md_modal_head {
     background-color: #222e3c;
