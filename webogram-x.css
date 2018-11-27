@@ -192,6 +192,11 @@ html {
 .dropdown-menu > li > a:focus,
 .dropdown-menu > li.active > a {
     background-color: #151e27;
+    color: #e0e0e0;
+}
+
+.dropdown-menu > li > a, .dropdown-menu > li > a:hover {
+    color: #e0e0e0;
 }
 
 
