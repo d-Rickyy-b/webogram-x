@@ -129,6 +129,11 @@ html {
     color: #ffffff;
 }
 
+/* Mobile version header color */
+.tg_page_head .navbar-inverse {
+    background-color: #222e3c;    
+}
+
 /* User profile color */
 .md_modal_head {
     background-color: #222e3c;
