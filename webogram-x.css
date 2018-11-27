@@ -178,6 +178,15 @@ html {
     color: #3a6d99;
 }
 
+.tg_head_peer_dropdown .dropdown-menu > li > a {
+    background-color: #222e3c;
+    color: #e0e0e0;
+}
+
+.tg_head_peer_dropdown .dropdown-menu > li > a:hover {
+    background-color: #151e27;
+    color: #e0e0e0;
+}
 
 .nav > li > a:hover,
 .nav > li > a:focus,
