@@ -82,6 +82,11 @@ html {
     color: #ffffff;
 }
 
+/* Media */
+.im_message_body_media .im_message_document, .im_message_body_media .im_message_audio {
+    background-color: #1d2733;
+}
+
 /* Scrollbar */
 .im_history_col .nano > .nano-pane > .nano-slider {
     background-color: #1b6189;
