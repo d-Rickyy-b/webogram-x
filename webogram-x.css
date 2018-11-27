@@ -74,6 +74,8 @@ html {
     color: #ffffff;
 }
 
+
+/* Caption text color */
 .im_message_document_caption,
 .im_message_photo_caption,
 .im_message_video_caption {
