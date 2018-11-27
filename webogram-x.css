@@ -81,11 +81,11 @@ html {
 }
 
 /* Scrollbar */
-.nano-slider:hover {
+.im_history_col .nano > .nano-pane > .nano-slider {
     background-color: #1b6189;
 }
 
-.nano-pane:hover {
+.im_history_col .nano > .nano-pane {
     background-color: #124763;
 }
 
