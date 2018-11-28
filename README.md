@@ -11,6 +11,11 @@ To use this style, you need a browser plugin such as [Stylus](https://addons.moz
 
 Just copy & paste the content of the [webogram-x.css](https://raw.githubusercontent.com/d-Rickyy-b/webogram-x/master/webogram-x.css) (or the minified version) into the plugin you are using.
 
+### Autp-Update CSS
+You are sick of manually updating the CSS after changes have been made or issues have been fixed? Just add a new style to your stylus plugin with the following content:
+
+```@import url("https://cdn.jsdelivr.net/gh/d-Rickyy-b/webogram-x/webogram-x.min.css");```
+
 ### Found an issue
 If you think you found an issue with the style (and I bet there are plenty), go ahead and open an issue in the GitHub issue tracker.
 Thanks for your support.
