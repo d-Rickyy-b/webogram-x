@@ -17,7 +17,8 @@ html {
     background-color: #222e3c;
 }
 
-.dropdown.open .tg_head_btn, .tg_head_btn:hover {
+.dropdown.open .tg_head_btn,
+.tg_head_btn:hover {
     background-color: #222e3c;
 }
 
@@ -83,7 +84,9 @@ html {
 }
 
 /* Media */
-.im_message_body_media .im_message_document, .im_message_body_media .im_message_audio {
+
+.im_message_body_media .im_message_document,
+.im_message_body_media .im_message_audio {
     background-color: #1d2733;
 }
 
@@ -102,7 +105,9 @@ html {
     background-color: #1d2733;
 }
 
-.btn-md-primary:focus, .btn-md-primary:hover, .btn-md:hover{
+.btn-md-primary:focus,
+.btn-md-primary:hover,
+.btn-md:hover {
     background-color: #124763;
 }
 
@@ -122,8 +127,11 @@ html {
 
 
 /* Mobile version text field */
-.composer_rich_textarea, .composer_rich_textarea:empty,
-.composer_rich_textarea:active, .composer_rich_textarea:focus {
+
+.composer_rich_textarea,
+.composer_rich_textarea:empty,
+.composer_rich_textarea:active,
+.composer_rich_textarea:focus {
     background-color: #1d2733;
     border-color: #151e27;
     color: #ffffff;
@@ -136,7 +144,7 @@ html {
 
 /* Mobile version header color */
 .tg_page_head .navbar-inverse {
-    background-color: #222e3c;    
+    background-color: #222e3c;
 }
 
 /* User profile color */
@@ -288,7 +296,7 @@ a.composer_emoji_btn:hover {
     background-color: #0e141a;
 }
 
-.composer_dropdown li a:hover, 
+.composer_dropdown li a:hover,
 .composer_dropdown li.composer_autocomplete_option_active a {
     background-color: #0e141a;
 }
