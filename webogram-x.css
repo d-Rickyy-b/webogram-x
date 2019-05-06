@@ -372,3 +372,35 @@ a.composer_emoji_btn:hover {
 .im_message_views {
     right: 7px;
 }
+.im_history_col .nano > .nano-pane {
+    background-color: #124763;
+}
+
+.im_history_col .nano > .nano-pane > .nano-slider {
+    background-color: #1b6189;
+}
+
+body {
+    color: #999;
+}
+
+code {
+	background-color: #11171e;
+	color: #a3a3a3;
+}
+
+pre {
+    margin-bottom: 0;
+    overflow: auto;
+    padding: 3px;
+    border: 1px solid #11171e;
+    max-height: none;
+    font-size: inherit;
+}
+
+pre {
+    display: block;
+    color: #a3a3a3;
+    background-color: #11171e;
+    border-radius: 4px;
+}
