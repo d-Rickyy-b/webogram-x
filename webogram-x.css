@@ -415,9 +415,6 @@ pre {
     border: 1px solid #11171e;
     max-height: none;
     font-size: inherit;
-}
-
-pre {
     display: block;
     color: #a3a3a3;
     background-color: #11171e;
