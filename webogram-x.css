@@ -31,7 +31,6 @@ a {
     color: #ffffff;
 }
 
-
 /* Site header "Telegram" */
 .tg_head_split {
     background-color: #222e3c;
@@ -42,7 +41,6 @@ a {
 .tg_head_btn:hover {
     background-color: #222e3c;
 }
-
 
 /* Chatlist - chat hover */
 .im_dialog_wrap:hover,
@@ -55,7 +53,6 @@ a {
     border-radius: 0;
     background: #151e27;
 }
-
 
 /* Unread messages bubble text color */
 .im_dialog_badge,
@@ -100,7 +97,6 @@ a {
     color: #ffffff;
 }
 
-
 /* Caption text color */
 .im_message_document_caption,
 .im_message_photo_caption,
@@ -123,7 +119,6 @@ a {
 .im_history_col .nano > .nano-pane {
     background-color: #124763;
 }
-
 
 /* Search bar color */
 .im_dialogs_search {
@@ -149,7 +144,6 @@ a {
     background-color: #1d2733;
     color: #ffffff;
 }
-
 
 /* Mobile version text field */
 
@@ -202,7 +196,6 @@ a {
     background-color: #59a8e1;
     color: #ffffff;
 }
-
 
 /* Icons */
 .md_modal_split_action > i {
@@ -259,7 +252,6 @@ a {
     color: #e0e0e0;
 }
 
-
 /* Select messages */
 .im_message_selected > div.im_message_outer_wrap,
 .im_message_selected > div.im_message_outer_wrap:hover,
@@ -280,7 +272,6 @@ a {
     background-color: #131a22;
 }
 
-
 /* Textfield */
 .composer_rich_textarea {
     color: #ffffff;
@@ -294,7 +285,6 @@ a {
 .im_record_bg {
     background-color: transparent;
 }
-
 
 /* Emoji Panel */
 .composer_emoji_tooltip_content,
@@ -334,7 +324,6 @@ a.composer_emoji_btn:hover {
     border-bottom: 1px solid #151e27;
 }
 
-
 /* Modal window (e.g. Edit group name) */
 .md_simple_modal_wrap,
 .modal_simple_form > h4,
@@ -370,7 +359,6 @@ a.composer_emoji_btn:hover {
     color: #ffffff;
 }
 
-
 /*-------------------- fixes --------------------*/
 .im_page_wrap,
 .composer_rich_textarea:empty,
@@ -387,7 +375,7 @@ a.composer_emoji_btn:hover {
 }
 
 .page_wrap {
-    background-size: cover!important;
+    background-size: cover !important;
 }
 
 .im_message_body {
