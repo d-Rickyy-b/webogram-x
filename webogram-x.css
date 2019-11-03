@@ -424,6 +424,11 @@ pre {
     border-radius: 4px;
 }
 
+/* Chat profile message bubble */
+.md_modal_split_action > i {
+    filter: brightness(0) invert(1) !important;
+}
+
 .countries_scrollable_wrap a.countries_modal_country {
     color: #3a6d99;
 }
