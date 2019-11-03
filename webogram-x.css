@@ -423,3 +423,21 @@ pre {
     background-color: #11171e;
     border-radius: 4px;
 }
+
+.countries_scrollable_wrap a.countries_modal_country {
+    color: #3a6d99;
+}
+
+/* Site background - also needed for login page */
+.login_form_wrap {
+    background-color: #1d2733;
+}
+
+.login_form_head, .login_phone_head {
+    color: #fff;
+}
+
+/* Login panel country selection */
+.countries_scrollable_wrap a.countries_modal_country:hover {
+    background: #0e141a;
+}
