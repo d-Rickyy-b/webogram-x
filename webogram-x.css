@@ -37,6 +37,15 @@ a {
     max-width: 1500px;
 }
 
+/* Message send frame */
+.im_send_panel_wrap {
+    max-width: 790px;
+}
+
+.im_send_form {
+    max-width: 620px;
+}
+
 .dropdown.open .tg_head_btn,
 .tg_head_btn:hover {
     background-color: #222e3c;
@@ -78,6 +87,7 @@ a {
 }
 
 .im_message_wrap {
+    max-width: 800px;
 }
 
 .im_dialogs_col_wrap {
