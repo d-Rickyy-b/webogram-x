@@ -9,7 +9,9 @@ Here is a picture to get an idea of how the style will look like.
 ### Usage
 To use this style, you need a browser plugin such as [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/). It injects custom CSS code into specified webpages.
 
-Just copy & paste the content of the [webogram-x.css](https://raw.githubusercontent.com/d-Rickyy-b/webogram-x/master/webogram-x.css) (or the minified version) into the plugin you are using.
+Now either copy & paste the content of the [webogram-x.css](https://raw.githubusercontent.com/d-Rickyy-b/webogram-x/master/webogram-x.css) (or the minified version) into the plugin you are using.
+
+Or 📦 [install the usercss](https://raw.githubusercontent.com/d-Rickyy-b/webogram-x/master/webogram-x.user.css) automatically. Also supports automatic future updates.
 
 ### Autp-Update CSS
 You are sick of manually updating the CSS after changes have been made or issues have been fixed? Just add a new style to your stylus plugin with the following content:
