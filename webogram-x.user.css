@@ -495,6 +495,6 @@
 
     /* Login panel country selection */
     .countries_scrollable_wrap a.countries_modal_country:hover {
-        background: var(--color-emoji-panel);
+        background: var(--color-dark-hover);
     }
 }
