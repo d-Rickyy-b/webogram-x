@@ -219,7 +219,8 @@
         background-color: var(--color-dark-cold-blue);
     }
 
-    .md_modal_body {
+    .md_modal_body,
+    .md_modal_body .tg_checkbox_label {
         color: var(--text-light);
         background-color: var(--bg-color);
     }
