@@ -386,7 +386,7 @@
         border-bottom: 1px solid var(--color-dark-hover);
     }
 
-    /* Modal window (e.g. Edit group name) */
+    /* Modal window (e.g. Edit group name, delete message) */
     .md_simple_modal_wrap,
     .modal_simple_form > h4,
     .md_simple_modal_body > h4,
