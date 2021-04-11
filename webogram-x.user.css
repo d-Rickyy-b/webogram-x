@@ -390,6 +390,7 @@
     .md_simple_modal_wrap,
     .modal_simple_form > h4,
     .md_simple_modal_body > h4,
+    .md_simple_modal_body .confirm_modal_description span p.tg_checkbox span,
     .md-input {
         background-color: var(--bg-color);
         color: var(--text-light);
