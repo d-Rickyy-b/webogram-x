@@ -125,6 +125,10 @@
         max-width: 800px;
     }
 
+    .im_bot_intro_message_wrap {
+        color: var(--text-light);
+    }
+
     .im_dialogs_col_wrap {
         border-right: 1px solid var(--color-dark-hover);
     }
