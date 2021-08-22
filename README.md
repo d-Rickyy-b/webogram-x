@@ -1,5 +1,8 @@
 # webogram-x
-Dark theme (css) for Telegram web based on colors from other Telegram X apps.
+Dark theme (css) for the [old, angular based Telegram web app](https://github.com/zhukov/webogram), with colors from other "Telegram X" apps.
+
+## Project status
+On [2021-04-15 Telegram released their new, more modern web app](https://t.me/tgbeta/4346) that's now available at the same url as the old web app. The new apps got a dark theme out of the box, hence this custom theme is no longer maintained.
 
 ### Showcase
 Here is a picture to get an idea of how the style will look like.
@@ -9,7 +12,7 @@ Here is a picture to get an idea of how the style will look like.
 ### Usage
 To use this style, you need a browser plugin such as [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/). It injects custom CSS code into specified webpages.
 
-Now either copy & paste the content of the [webogram-x.css](https://raw.githubusercontent.com/d-Rickyy-b/webogram-x/master/webogram-x.css) (or the minified version) into the plugin you are using.
+Now either copy & paste the content of the [webogram-x.user.css](https://raw.githubusercontent.com/d-Rickyy-b/webogram-x/master/webogram-x.user.css) (or the minified version) into the plugin you are using.
 
 Or 📦 [install the usercss](https://raw.githubusercontent.com/d-Rickyy-b/webogram-x/master/webogram-x.user.css) automatically. Also supports automatic future updates.
 
