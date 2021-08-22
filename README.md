@@ -2,7 +2,9 @@
 Dark theme (css) for the [old, angular based Telegram web app](https://github.com/zhukov/webogram), with colors from other "Telegram X" apps.
 
 ## Project status
-On [2021-04-15 Telegram released their new, more modern web app](https://t.me/tgbeta/4346) that's now available at the same url as the old web app. The new apps got a dark theme out of the box, hence this custom theme is no longer maintained.
+On 2021-04-15 Telegram released their [new, more modern web app](https://t.me/tgbeta/4346) that's now available at the [same url as the old web app](https://web.telegram.org). The new apps got a dark theme out of the box, hence this custom theme will **no longer be maintained**.
+
+The old Telegram web app is still accessible at [web.telegram.org/?legacy=1](https://web.telegram.org/?legacy=1), but it lacks a lot of features and doesn't look as good as the new versions.
 
 ### Showcase
 Here is a picture to get an idea of how the style will look like.
